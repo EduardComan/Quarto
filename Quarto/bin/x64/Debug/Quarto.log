@@ -1,0 +1,9 @@
+﻿  Board.cpp
+  BoardStateChecker.cpp
+  Piece.cpp
+  Player.cpp
+  QuartoGame.cpp
+  Source.cpp
+  UnusedPieces.cpp
+  Generating Code...
+  Quarto.vcxproj -> E:\Quarto\bin\x64\Debug\Quarto.exe
